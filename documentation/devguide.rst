@@ -1,4 +1,4 @@
-.. _devguide:
+git clone https://github.com/<your_username>/devguide.. _devguide:
 
 ==================================
 Helping with the Developer's Guide
